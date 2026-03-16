@@ -73,8 +73,9 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: '#3b3ed8',
-    padding: 10,
-    borderRadius: 10
+    padding: 15,
+    borderRadius: 10,
+    width: '95%'
   },
   salvar: {
     color: 'white'
